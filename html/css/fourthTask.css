@@ -1,0 +1,64 @@
+.block1{
+    background: lightblue;
+    height: 400px;
+    width: 600px;
+    border: 2px solid steelblue;
+    border-radius: 10px;
+    margin:2%;
+    margin-left: 10%;
+
+}
+
+.blockGreen, .blockBlue, .blockOrange{
+    background: MediumSeaGreen;
+    width: 200px;
+    height: 250px;
+    margin: -2px;
+    display: inline-block;
+    border: 12px solid lightgrey;
+    
+}
+
+.blockBlue{
+    background: cyan;
+    
+}
+
+.blockOrange{
+    background: orange;
+}
+
+.block2{
+    overflow: hidden;
+    margin-right: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    margin-left: 130px;
+}
+
+.blockGreen_bottom, .blockBlue_bottom, .blockOrange_bottom{
+    background: white;
+    position: fixed;
+    height: 28px;
+    width: 200px;
+    margin-top: -5px;
+
+}
+
+.blockOrange_bottom{
+    margin-left: 458px;
+    margin-top: -36px;
+}
+
+.textFont{
+    font-size: 150px;
+    margin: 50px;
+    margin-top: 5px;
+    margin-left: 65px;
+    color: white;
+}
+
+
+
+
+
